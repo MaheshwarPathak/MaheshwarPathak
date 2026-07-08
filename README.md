@@ -12,9 +12,9 @@
 </p> -->
 
 <!-- Subtle separator -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/---%20Professional%20Profile%20---000000?style=flat-square&labelColor=151515&color=0A0F1A" alt="separator" />
-</p>
+</p> -->
 
 <!-- =========================
    QUICK SUMMARY
