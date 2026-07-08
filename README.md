@@ -8,7 +8,7 @@
    HERO / BANNER
    ========================= -->
 <p align="center">
-  ![Typing Introduction](https://readme-typing-svg.demolab.ai?font=Fira+Code&size=28&pause=900&color=A8B2C1&center=true&vCenter=true&width=880&lines=Hi,+I'm+Maheshwar+Pathak;Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Healthcare+Tech+Innovator)
+  ![Typing Introduction](https://readme-typing-svg.demolab.ai?font=Fira+Code&size=28&pause=900&color=A8B2C1&center=true&vCenter=true&width=880&lines=Hi,+I'm+Maheshwar+Pathak;Software+Engineer;Full-Stack+Developer;AI%2FLML+Enthusiast;Healthcare+%26+Tech+Innovator)
 </p>
 
 <!-- Subtle separator -->
@@ -19,7 +19,7 @@
 <!-- =========================
    QUICK SUMMARY
    ========================= -->
-Hi — I'm Maheshwar. I build production-ready web platforms and research-grade AI systems focused on healthcare, developer tools, and real-world integrations. I ship full-stack TypeScript solutions with a focus on scalability, explainability, and user-centric design.
+Hi — I'm Maheshwar. I build production-ready web platforms and research-grade AI systems focused on healthcare, developer tools, and real-world integrations. I ship full-stack TypeScript solutions with an emphasis on explainability, safety, and scalability.
 
 <!-- =========================
    KEY FACTS / CONTACT BADGES
@@ -74,19 +74,19 @@ I design and implement full-stack systems and AI-driven features with an emphasi
 ## Tech — primary stack
 
 **Languages:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
 
 **Backend & Data:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 **AI / LLM:**  
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
 **Cloud & DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
 
 **Tools:**  
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
