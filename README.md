@@ -7,9 +7,9 @@
 <!-- =========================
    HERO / BANNER
    ========================= -->
-<p align="center">
+<!-- <p align="center">
   ![Typing Introduction](https://readme-typing-svg.demolab.ai?font=Fira+Code&size=28&pause=900&color=A8B2C1&center=true&vCenter=true&width=880&lines=Hi,+I'm+Maheshwar+Pathak;Software+Engineer;Full-Stack+Developer;AI%2FLML+Enthusiast;Healthcare+%26+Tech+Innovator)
-</p>
+</p> -->
 
 <!-- Subtle separator -->
 <p align="center">
