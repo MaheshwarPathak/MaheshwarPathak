@@ -170,20 +170,7 @@ I design and implement full-stack systems and AI-driven features with an emphasi
 <!-- =========================
    OPEN SOURCE & CONTRIBUTIONS
    ========================= -->
-## Open Source
-
-I welcome collaboration on:
-- Multi-agent orchestration, safety, and explainability for clinical scenarios
-- Full-stack patterns for production-ready SaaS (auth, file uploads, CI/CD)
-- Developer tooling: reproducible deployments, Docker + Compose patterns
-
-If you want to collaborate: open an issue or PR in the repo you're interested in. See repository CONTRIBUTING.md files for project-specific guidelines.
-
----
-
-<!-- =========================
-   CERTIFICATIONS & LEARNING
-   ========================= -->
+ 
 ## Certifications & Learning
 - **Machine Learning / AI:** Ongoing self-study with focus on LLM orchestration
 - **Cloud / DevOps:** Docker, Kubernetes, CI/CD pipelines with GitHub Actions
@@ -194,33 +181,19 @@ If you want to collaborate: open an issue or PR in the repo you're interested in
 <!-- =========================
    EXPERIENCE TIMELINE
    ========================= -->
-## Selected Timeline — Notable Projects
-- **2024** — MediMind AI: architected multi-agent debate & consensus pipeline for explainable diagnostics
-- **2023** — CODESOFT JobBoard: end-to-end MERN SaaS with ATS & analytics
-- **2022** — medimind-pulse-ai & Healthcare_Project: wearable integrations & biosignal prototyping
-- **Ongoing** — maintenance & improvements across TypeScript, Next.js, Node.js repos
+ 
 
 ---
 
 <!-- =========================
    LEARNING JOURNEY & ROADMAP
    ========================= -->
-## Learning & Roadmap
-- **Currently:** Deepening LLM safety, conversational memory, prompt engineering for multi-agent coordination
-- **Next:** Production-grade deployments for MediMind (scaling, monitoring, compliance)
-- **6–12 months:** Publish a write-up on explainability graphs and agent debate patterns (blog / medium links to be added)
-
----
+ 
 
 <!-- =========================
    BLOG / MEDIA
    ========================= -->
-## Writing & Media
-- **Blog:** Coming soon — technical deep-dives on multi-agent systems and healthcare AI
-- **Articles:** [View on Medium](#) or [Dev.to](#)
-- **Videos:** [YouTube Channel](#) (demo recordings and tutorials)
-
----
+ 
 
 <!-- =========================
    CONTACT / HIRE
