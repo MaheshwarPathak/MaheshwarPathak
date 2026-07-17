@@ -171,12 +171,6 @@ I design and implement full-stack systems and AI-driven features with an emphasi
    OPEN SOURCE & CONTRIBUTIONS
    ========================= -->
  
-## Certifications & Learning
-- **Machine Learning / AI:** Ongoing self-study with focus on LLM orchestration
-- **Cloud / DevOps:** Docker, Kubernetes, CI/CD pipelines with GitHub Actions
-- **Ongoing:** LLM orchestration, AI explainability, production monitoring, wearable data integration
-
----
 
 <!-- =========================
    EXPERIENCE TIMELINE
